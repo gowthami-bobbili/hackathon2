@@ -1,0 +1,32 @@
+body{
+    background-repeat: no-repeat;
+    background-position: auto;
+    background-size: 100%;
+    }
+    .card{
+    text-align: center;
+    text-decoration-color: aliceblue;
+    padding-left: 13%;
+    padding-right: 13%;
+    padding-top:3%;
+    padding-bottom:3%;
+    position: fixed;
+    box-shadow: 7px 7px 7px 7px #000;
+    background-color: transparent;
+    border-top: 50%;
+    color: white
+    }
+    .container1{
+    padding-left: 200px;
+    padding-top: 50px;
+    }
+    button{
+    border-radius: 30px 30px 30px 30px;
+    padding: 8px 5px 8px 5px ;
+    background-color: transparent;
+    color: white
+    }
+    button.hover{
+    background-color: black;
+    color: #000;
+    }
